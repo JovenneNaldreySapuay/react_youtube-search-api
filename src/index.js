@@ -8,7 +8,11 @@ import VideoDetail from './components/video_detail';
 
 // see here: https://console.developers.google.com/apis/api/youtube.googleapis.com/credentials?project=youtube-search-227004
 
-const API_KEY = 'AIzaSyDcNacCGsBgU8Tbbzo7nIezG_QuAyFkau4';
+// dev api
+// const API_KEY = 'AIzaSyDcNacCGsBgU8Tbbzo7nIezG_QuAyFkau4';
+
+// live api
+const API_KEY = 'AIzaSyCjxzEB-WOVnfobi_Qn3ElvKXOc8ebKUbM';
 
 // const App = () => {
 // 	return (
